@@ -1,0 +1,6 @@
+{
+  "name": "React-js",
+  "tagline": "小プロジェクトをReact jsで構築する",
+  "body": "#### 小プロジェクトをReact jsで構築する\r\n\r\nInstall NPM : https://nodejs.org/en/download/package-manager/#enterprise-linux-and-fedora\r\n\r\nInstall module nodejs for react\r\n```\r\nnpm install react react-dom gulp gulp-react gulp-browserify\r\n```\r\n\r\nBuild jsx to js\r\n```\r\ngulp\r\n```\r\n\r\nCheck on browser\r\n```\r\nhttp://localhost\r\n```\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
